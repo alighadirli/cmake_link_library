@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cmake_link_library.dir/main.c.o  -o cmake_link_library ../libmylib.a 

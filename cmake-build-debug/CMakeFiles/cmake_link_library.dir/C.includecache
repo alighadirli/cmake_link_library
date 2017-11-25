@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amin/CLionProjects/cmake_link_library/library.h
+
+/home/amin/CLionProjects/cmake_link_library/main.c
+stdio.h
+-
+library.h
+/home/amin/CLionProjects/cmake_link_library/library.h
+
